@@ -1,5 +1,5 @@
-Nomna Fonts
-- HanNomGoThic
+# Nomna Fonts
+- HanNomGothic
 - HanNomKhai
 - HanNomMinh
 - MiSansL3
